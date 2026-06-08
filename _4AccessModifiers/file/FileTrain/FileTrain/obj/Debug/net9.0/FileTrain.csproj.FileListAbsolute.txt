@@ -1,0 +1,15 @@
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\file\FileTrain\FileTrain\obj\Debug\net9.0\FileTrain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\file\FileTrain\FileTrain\obj\Debug\net9.0\FileTrain.AssemblyInfoInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\file\FileTrain\FileTrain\obj\Debug\net9.0\FileTrain.AssemblyInfo.cs
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\file\FileTrain\FileTrain\obj\Debug\net9.0\FileTrain.csproj.CoreCompileInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\file\FileTrain\FileTrain\obj\Debug\net9.0\FileTrain.sourcelink.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\file\FileTrain\FileTrain\bin\Debug\net9.0\FileTrain.exe
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\file\FileTrain\FileTrain\bin\Debug\net9.0\FileTrain.deps.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\file\FileTrain\FileTrain\bin\Debug\net9.0\FileTrain.runtimeconfig.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\file\FileTrain\FileTrain\bin\Debug\net9.0\FileTrain.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\file\FileTrain\FileTrain\bin\Debug\net9.0\FileTrain.pdb
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\file\FileTrain\FileTrain\obj\Debug\net9.0\FileTrain.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\file\FileTrain\FileTrain\obj\Debug\net9.0\refint\FileTrain.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\file\FileTrain\FileTrain\obj\Debug\net9.0\FileTrain.pdb
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\file\FileTrain\FileTrain\obj\Debug\net9.0\FileTrain.genruntimeconfig.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\file\FileTrain\FileTrain\obj\Debug\net9.0\ref\FileTrain.dll
