@@ -1,0 +1,5 @@
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_5Properties\PropertiesTrain\PropertiesTrain\obj\Debug\net9.0\PropertiesTrain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_5Properties\PropertiesTrain\PropertiesTrain\obj\Debug\net9.0\PropertiesTrain.AssemblyInfoInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_5Properties\PropertiesTrain\PropertiesTrain\obj\Debug\net9.0\PropertiesTrain.AssemblyInfo.cs
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_5Properties\PropertiesTrain\PropertiesTrain\obj\Debug\net9.0\PropertiesTrain.csproj.CoreCompileInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_5Properties\PropertiesTrain\PropertiesTrain\obj\Debug\net9.0\PropertiesTrain.sourcelink.json
