@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_3ValueAndReferenceTypes\\ValueAndReferenceTypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEE6A67-79B6-4E8A-A2F4-5BC821F91536}|ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_3valueandreferencetypes\\valueandreferencetypes\\valueandreferencetypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEE6A67-79B6-4E8A-A2F4-5BC821F91536}|ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj|solutionrelative:valueandreferencetypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEE6A67-79B6-4E8A-A2F4-5BC821F91536}|ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_3valueandreferencetypes\\valueandreferencetypes\\valueandreferencetypes\\classvsstructcopydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEE6A67-79B6-4E8A-A2F4-5BC821F91536}|ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj|solutionrelative:valueandreferencetypes\\classvsstructcopydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEE6A67-79B6-4E8A-A2F4-5BC821F91536}|ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_3valueandreferencetypes\\valueandreferencetypes\\valueandreferencetypes\\deepcopystructdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEE6A67-79B6-4E8A-A2F4-5BC821F91536}|ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj|solutionrelative:valueandreferencetypes\\deepcopystructdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEE6A67-79B6-4E8A-A2F4-5BC821F91536}|ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_3valueandreferencetypes\\valueandreferencetypes\\valueandreferencetypes\\methodframesdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEE6A67-79B6-4E8A-A2F4-5BC821F91536}|ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj|solutionrelative:valueandreferencetypes\\methodframesdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEE6A67-79B6-4E8A-A2F4-5BC821F91536}|ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_3valueandreferencetypes\\valueandreferencetypes\\valueandreferencetypes\\methodparameterdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEE6A67-79B6-4E8A-A2F4-5BC821F91536}|ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj|solutionrelative:valueandreferencetypes\\methodparameterdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEE6A67-79B6-4E8A-A2F4-5BC821F91536}|ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_3valueandreferencetypes\\valueandreferencetypes\\valueandreferencetypes\\structwithreffielddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEE6A67-79B6-4E8A-A2F4-5BC821F91536}|ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj|solutionrelative:valueandreferencetypes\\structwithreffielddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEE6A67-79B6-4E8A-A2F4-5BC821F91536}|ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_3valueandreferencetypes\\valueandreferencetypes\\valueandreferencetypes\\stackvsheapdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEE6A67-79B6-4E8A-A2F4-5BC821F91536}|ValueAndReferenceTypes\\ValueAndReferenceTypes.csproj|solutionrelative:valueandreferencetypes\\stackvsheapdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cde3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassVsStructCopyDemo.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_3ValueAndReferenceTypes\\ValueAndReferenceTypes\\ValueAndReferenceTypes\\ClassVsStructCopyDemo.cs",
+              "RelativeDocumentMoniker": "ValueAndReferenceTypes\\ClassVsStructCopyDemo.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_3ValueAndReferenceTypes\\ValueAndReferenceTypes\\ValueAndReferenceTypes\\ClassVsStructCopyDemo.cs",
+              "RelativeToolTip": "ValueAndReferenceTypes\\ClassVsStructCopyDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T00:14:02.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeepCopyStructDemo.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_3ValueAndReferenceTypes\\ValueAndReferenceTypes\\ValueAndReferenceTypes\\DeepCopyStructDemo.cs",
+              "RelativeDocumentMoniker": "ValueAndReferenceTypes\\DeepCopyStructDemo.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_3ValueAndReferenceTypes\\ValueAndReferenceTypes\\ValueAndReferenceTypes\\DeepCopyStructDemo.cs",
+              "RelativeToolTip": "ValueAndReferenceTypes\\DeepCopyStructDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T00:13:52.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MethodFramesDemo.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_3ValueAndReferenceTypes\\ValueAndReferenceTypes\\ValueAndReferenceTypes\\MethodFramesDemo.cs",
+              "RelativeDocumentMoniker": "ValueAndReferenceTypes\\MethodFramesDemo.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_3ValueAndReferenceTypes\\ValueAndReferenceTypes\\ValueAndReferenceTypes\\MethodFramesDemo.cs",
+              "RelativeToolTip": "ValueAndReferenceTypes\\MethodFramesDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T00:13:35.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MethodParameterDemo.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_3ValueAndReferenceTypes\\ValueAndReferenceTypes\\ValueAndReferenceTypes\\MethodParameterDemo.cs",
+              "RelativeDocumentMoniker": "ValueAndReferenceTypes\\MethodParameterDemo.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_3ValueAndReferenceTypes\\ValueAndReferenceTypes\\ValueAndReferenceTypes\\MethodParameterDemo.cs",
+              "RelativeToolTip": "ValueAndReferenceTypes\\MethodParameterDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T00:13:09.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StructWithRefFieldDemo.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_3ValueAndReferenceTypes\\ValueAndReferenceTypes\\ValueAndReferenceTypes\\StructWithRefFieldDemo.cs",
+              "RelativeDocumentMoniker": "ValueAndReferenceTypes\\StructWithRefFieldDemo.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_3ValueAndReferenceTypes\\ValueAndReferenceTypes\\ValueAndReferenceTypes\\StructWithRefFieldDemo.cs",
+              "RelativeToolTip": "ValueAndReferenceTypes\\StructWithRefFieldDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T00:12:56.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_3ValueAndReferenceTypes\\ValueAndReferenceTypes\\ValueAndReferenceTypes\\Program.cs",
+              "RelativeDocumentMoniker": "ValueAndReferenceTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_3ValueAndReferenceTypes\\ValueAndReferenceTypes\\ValueAndReferenceTypes\\Program.cs",
+              "RelativeToolTip": "ValueAndReferenceTypes\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T00:12:08.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StackVsHeapDemo.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_3ValueAndReferenceTypes\\ValueAndReferenceTypes\\ValueAndReferenceTypes\\StackVsHeapDemo.cs",
+              "RelativeDocumentMoniker": "ValueAndReferenceTypes\\StackVsHeapDemo.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_3ValueAndReferenceTypes\\ValueAndReferenceTypes\\ValueAndReferenceTypes\\StackVsHeapDemo.cs",
+              "RelativeToolTip": "ValueAndReferenceTypes\\StackVsHeapDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T00:12:44.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

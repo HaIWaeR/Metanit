@@ -1,0 +1,14 @@
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\protected_internal\protected_internalTrain\bin\Debug\net9.0\ToyotaAssembly.exe
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\protected_internal\protected_internalTrain\bin\Debug\net9.0\ToyotaAssembly.deps.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\protected_internal\protected_internalTrain\bin\Debug\net9.0\ToyotaAssembly.runtimeconfig.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\protected_internal\protected_internalTrain\bin\Debug\net9.0\ToyotaAssembly.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\protected_internal\protected_internalTrain\bin\Debug\net9.0\ToyotaAssembly.pdb
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\protected_internal\protected_internalTrain\obj\Debug\net9.0\ToyotaAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\protected_internal\protected_internalTrain\obj\Debug\net9.0\ToyotaAssembly.AssemblyInfoInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\protected_internal\protected_internalTrain\obj\Debug\net9.0\ToyotaAssembly.AssemblyInfo.cs
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\protected_internal\protected_internalTrain\obj\Debug\net9.0\ToyotaAssembly.csproj.CoreCompileInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\protected_internal\protected_internalTrain\obj\Debug\net9.0\ToyotaAssembly.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\protected_internal\protected_internalTrain\obj\Debug\net9.0\refint\ToyotaAssembly.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\protected_internal\protected_internalTrain\obj\Debug\net9.0\ToyotaAssembly.pdb
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\protected_internal\protected_internalTrain\obj\Debug\net9.0\ToyotaAssembly.genruntimeconfig.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_4AccessModifiers\protected_internal\protected_internalTrain\obj\Debug\net9.0\ref\ToyotaAssembly.dll
