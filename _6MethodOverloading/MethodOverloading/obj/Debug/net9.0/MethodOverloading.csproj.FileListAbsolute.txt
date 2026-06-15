@@ -1,0 +1,15 @@
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_6MethodOverloading\MethodOverloading\MethodOverloading\bin\Debug\net9.0\MethodOverloading.exe
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_6MethodOverloading\MethodOverloading\MethodOverloading\bin\Debug\net9.0\MethodOverloading.deps.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_6MethodOverloading\MethodOverloading\MethodOverloading\bin\Debug\net9.0\MethodOverloading.runtimeconfig.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_6MethodOverloading\MethodOverloading\MethodOverloading\bin\Debug\net9.0\MethodOverloading.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_6MethodOverloading\MethodOverloading\MethodOverloading\bin\Debug\net9.0\MethodOverloading.pdb
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_6MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net9.0\MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_6MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net9.0\MethodOverloading.AssemblyInfoInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_6MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net9.0\MethodOverloading.AssemblyInfo.cs
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_6MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net9.0\MethodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_6MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net9.0\MethodOverloading.sourcelink.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_6MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net9.0\MethodOverloading.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_6MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net9.0\refint\MethodOverloading.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_6MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net9.0\MethodOverloading.pdb
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_6MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net9.0\MethodOverloading.genruntimeconfig.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_6MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net9.0\ref\MethodOverloading.dll
