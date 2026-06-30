@@ -1,0 +1,15 @@
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_8Constants\Constants\Constants\bin\Debug\net9.0\Constants.exe
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_8Constants\Constants\Constants\bin\Debug\net9.0\Constants.deps.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_8Constants\Constants\Constants\bin\Debug\net9.0\Constants.runtimeconfig.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_8Constants\Constants\Constants\bin\Debug\net9.0\Constants.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_8Constants\Constants\Constants\bin\Debug\net9.0\Constants.pdb
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_8Constants\Constants\Constants\obj\Debug\net9.0\Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_8Constants\Constants\Constants\obj\Debug\net9.0\Constants.AssemblyInfoInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_8Constants\Constants\Constants\obj\Debug\net9.0\Constants.AssemblyInfo.cs
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_8Constants\Constants\Constants\obj\Debug\net9.0\Constants.csproj.CoreCompileInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_8Constants\Constants\Constants\obj\Debug\net9.0\Constants.sourcelink.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_8Constants\Constants\Constants\obj\Debug\net9.0\Constants.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_8Constants\Constants\Constants\obj\Debug\net9.0\refint\Constants.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_8Constants\Constants\Constants\obj\Debug\net9.0\Constants.pdb
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_8Constants\Constants\Constants\obj\Debug\net9.0\Constants.genruntimeconfig.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_8Constants\Constants\Constants\obj\Debug\net9.0\ref\Constants.dll
