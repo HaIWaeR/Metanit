@@ -1,0 +1,15 @@
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\OverrideVirtual\OverrideVirtual\bin\Debug\net9.0\OverrideVirtual.exe
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\OverrideVirtual\OverrideVirtual\bin\Debug\net9.0\OverrideVirtual.deps.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\OverrideVirtual\OverrideVirtual\bin\Debug\net9.0\OverrideVirtual.runtimeconfig.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\OverrideVirtual\OverrideVirtual\bin\Debug\net9.0\OverrideVirtual.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\OverrideVirtual\OverrideVirtual\bin\Debug\net9.0\OverrideVirtual.pdb
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\OverrideVirtual\OverrideVirtual\obj\Debug\net9.0\OverrideVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\OverrideVirtual\OverrideVirtual\obj\Debug\net9.0\OverrideVirtual.AssemblyInfoInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\OverrideVirtual\OverrideVirtual\obj\Debug\net9.0\OverrideVirtual.AssemblyInfo.cs
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\OverrideVirtual\OverrideVirtual\obj\Debug\net9.0\OverrideVirtual.csproj.CoreCompileInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\OverrideVirtual\OverrideVirtual\obj\Debug\net9.0\OverrideVirtual.sourcelink.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\OverrideVirtual\OverrideVirtual\obj\Debug\net9.0\OverrideVirtual.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\OverrideVirtual\OverrideVirtual\obj\Debug\net9.0\refint\OverrideVirtual.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\OverrideVirtual\OverrideVirtual\obj\Debug\net9.0\OverrideVirtual.pdb
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\OverrideVirtual\OverrideVirtual\obj\Debug\net9.0\OverrideVirtual.genruntimeconfig.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\OverrideVirtual\OverrideVirtual\obj\Debug\net9.0\ref\OverrideVirtual.dll

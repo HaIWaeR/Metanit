@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TypeСonversion")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("OverrideVirtual")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c8899c991f76e1326dc2127df588486b03ac1d3")]
-[assembly: System.Reflection.AssemblyProductAttribute("TypeСonversion")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TypeСonversion")]
+[assembly: System.Reflection.AssemblyProductAttribute("OverrideVirtual")]
+[assembly: System.Reflection.AssemblyTitleAttribute("OverrideVirtual")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
