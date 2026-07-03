@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_9Inheritance\\Type\u0421onversion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39D51C9C-FE95-4D76-BE08-B6C103FDCF31}|Type\u0421onversion\\Type\u0421onversion.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_9inheritance\\type\u0441onversion\\type\u0441onversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D51C9C-FE95-4D76-BE08-B6C103FDCF31}|Type\u0421onversion\\Type\u0421onversion.csproj|solutionrelative:type\u0441onversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D51C9C-FE95-4D76-BE08-B6C103FDCF31}|Type\u0421onversion\\Type\u0421onversion.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_9inheritance\\type\u0441onversion\\type\u0441onversion\\peoples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D51C9C-FE95-4D76-BE08-B6C103FDCF31}|Type\u0421onversion\\Type\u0421onversion.csproj|solutionrelative:type\u0441onversion\\peoples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D51C9C-FE95-4D76-BE08-B6C103FDCF31}|Type\u0421onversion\\Type\u0421onversion.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_9inheritance\\type\u0441onversion\\type\u0441onversion\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D51C9C-FE95-4D76-BE08-B6C103FDCF31}|Type\u0421onversion\\Type\u0421onversion.csproj|solutionrelative:type\u0441onversion\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cde3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Peoples.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_9Inheritance\\Type\u0421onversion\\Type\u0421onversion\\Peoples.cs",
+              "RelativeDocumentMoniker": "Type\u0421onversion\\Peoples.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_9Inheritance\\Type\u0421onversion\\Type\u0421onversion\\Peoples.cs",
+              "RelativeToolTip": "Type\u0421onversion\\Peoples.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T20:40:54.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animals.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_9Inheritance\\Type\u0421onversion\\Type\u0421onversion\\Animals.cs",
+              "RelativeDocumentMoniker": "Type\u0421onversion\\Animals.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_9Inheritance\\Type\u0421onversion\\Type\u0421onversion\\Animals.cs",
+              "RelativeToolTip": "Type\u0421onversion\\Animals.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T20:40:21.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_9Inheritance\\Type\u0421onversion\\Type\u0421onversion\\Program.cs",
+              "RelativeDocumentMoniker": "Type\u0421onversion\\Program.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_9Inheritance\\Type\u0421onversion\\Type\u0421onversion\\Program.cs",
+              "RelativeToolTip": "Type\u0421onversion\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T20:18:50.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

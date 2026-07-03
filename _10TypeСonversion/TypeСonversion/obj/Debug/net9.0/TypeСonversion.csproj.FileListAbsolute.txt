@@ -1,0 +1,15 @@
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\TypeСonversion\TypeСonversion\obj\Debug\net9.0\TypeСonversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\TypeСonversion\TypeСonversion\obj\Debug\net9.0\TypeСonversion.AssemblyInfoInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\TypeСonversion\TypeСonversion\obj\Debug\net9.0\TypeСonversion.AssemblyInfo.cs
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\TypeСonversion\TypeСonversion\obj\Debug\net9.0\TypeСonversion.csproj.CoreCompileInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\TypeСonversion\TypeСonversion\obj\Debug\net9.0\TypeСonversion.sourcelink.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\TypeСonversion\TypeСonversion\bin\Debug\net9.0\TypeСonversion.exe
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\TypeСonversion\TypeСonversion\bin\Debug\net9.0\TypeСonversion.deps.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\TypeСonversion\TypeСonversion\bin\Debug\net9.0\TypeСonversion.runtimeconfig.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\TypeСonversion\TypeСonversion\bin\Debug\net9.0\TypeСonversion.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\TypeСonversion\TypeСonversion\bin\Debug\net9.0\TypeСonversion.pdb
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\TypeСonversion\TypeСonversion\obj\Debug\net9.0\TypeСonversion.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\TypeСonversion\TypeСonversion\obj\Debug\net9.0\refint\TypeСonversion.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\TypeСonversion\TypeСonversion\obj\Debug\net9.0\TypeСonversion.pdb
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\TypeСonversion\TypeСonversion\obj\Debug\net9.0\TypeСonversion.genruntimeconfig.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_9Inheritance\TypeСonversion\TypeСonversion\obj\Debug\net9.0\ref\TypeСonversion.dll
