@@ -1,0 +1,15 @@
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_12AbstractClass\SystemObject\SystemObject\bin\Debug\net9.0\SystemObject.exe
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_12AbstractClass\SystemObject\SystemObject\bin\Debug\net9.0\SystemObject.deps.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_12AbstractClass\SystemObject\SystemObject\bin\Debug\net9.0\SystemObject.runtimeconfig.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_12AbstractClass\SystemObject\SystemObject\bin\Debug\net9.0\SystemObject.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_12AbstractClass\SystemObject\SystemObject\bin\Debug\net9.0\SystemObject.pdb
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_12AbstractClass\SystemObject\SystemObject\obj\Debug\net9.0\SystemObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_12AbstractClass\SystemObject\SystemObject\obj\Debug\net9.0\SystemObject.AssemblyInfoInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_12AbstractClass\SystemObject\SystemObject\obj\Debug\net9.0\SystemObject.AssemblyInfo.cs
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_12AbstractClass\SystemObject\SystemObject\obj\Debug\net9.0\SystemObject.csproj.CoreCompileInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_12AbstractClass\SystemObject\SystemObject\obj\Debug\net9.0\SystemObject.sourcelink.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_12AbstractClass\SystemObject\SystemObject\obj\Debug\net9.0\SystemObject.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_12AbstractClass\SystemObject\SystemObject\obj\Debug\net9.0\refint\SystemObject.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_12AbstractClass\SystemObject\SystemObject\obj\Debug\net9.0\SystemObject.pdb
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_12AbstractClass\SystemObject\SystemObject\obj\Debug\net9.0\SystemObject.genruntimeconfig.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_12AbstractClass\SystemObject\SystemObject\obj\Debug\net9.0\ref\SystemObject.dll
