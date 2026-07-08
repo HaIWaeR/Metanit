@@ -1,0 +1,15 @@
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_14Generalizations\Generalizations\Generalizations\bin\Debug\net9.0\Generalizations.exe
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_14Generalizations\Generalizations\Generalizations\bin\Debug\net9.0\Generalizations.deps.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_14Generalizations\Generalizations\Generalizations\bin\Debug\net9.0\Generalizations.runtimeconfig.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_14Generalizations\Generalizations\Generalizations\bin\Debug\net9.0\Generalizations.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_14Generalizations\Generalizations\Generalizations\bin\Debug\net9.0\Generalizations.pdb
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_14Generalizations\Generalizations\Generalizations\obj\Debug\net9.0\Generalizations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_14Generalizations\Generalizations\Generalizations\obj\Debug\net9.0\Generalizations.AssemblyInfoInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_14Generalizations\Generalizations\Generalizations\obj\Debug\net9.0\Generalizations.AssemblyInfo.cs
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_14Generalizations\Generalizations\Generalizations\obj\Debug\net9.0\Generalizations.csproj.CoreCompileInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_14Generalizations\Generalizations\Generalizations\obj\Debug\net9.0\Generalizations.sourcelink.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_14Generalizations\Generalizations\Generalizations\obj\Debug\net9.0\Generalizations.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_14Generalizations\Generalizations\Generalizations\obj\Debug\net9.0\refint\Generalizations.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_14Generalizations\Generalizations\Generalizations\obj\Debug\net9.0\Generalizations.pdb
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_14Generalizations\Generalizations\Generalizations\obj\Debug\net9.0\Generalizations.genruntimeconfig.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_14Generalizations\Generalizations\Generalizations\obj\Debug\net9.0\ref\Generalizations.dll
