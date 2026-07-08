@@ -1,0 +1,15 @@
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_15LimitationsGeneralizations\LimitationsGeneralizations\LimitationsGeneralizations\bin\Debug\net9.0\LimitationsGeneralizations.exe
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_15LimitationsGeneralizations\LimitationsGeneralizations\LimitationsGeneralizations\bin\Debug\net9.0\LimitationsGeneralizations.deps.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_15LimitationsGeneralizations\LimitationsGeneralizations\LimitationsGeneralizations\bin\Debug\net9.0\LimitationsGeneralizations.runtimeconfig.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_15LimitationsGeneralizations\LimitationsGeneralizations\LimitationsGeneralizations\bin\Debug\net9.0\LimitationsGeneralizations.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_15LimitationsGeneralizations\LimitationsGeneralizations\LimitationsGeneralizations\bin\Debug\net9.0\LimitationsGeneralizations.pdb
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_15LimitationsGeneralizations\LimitationsGeneralizations\LimitationsGeneralizations\obj\Debug\net9.0\LimitationsGeneralizations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_15LimitationsGeneralizations\LimitationsGeneralizations\LimitationsGeneralizations\obj\Debug\net9.0\LimitationsGeneralizations.AssemblyInfoInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_15LimitationsGeneralizations\LimitationsGeneralizations\LimitationsGeneralizations\obj\Debug\net9.0\LimitationsGeneralizations.AssemblyInfo.cs
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_15LimitationsGeneralizations\LimitationsGeneralizations\LimitationsGeneralizations\obj\Debug\net9.0\LimitationsGeneralizations.csproj.CoreCompileInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_15LimitationsGeneralizations\LimitationsGeneralizations\LimitationsGeneralizations\obj\Debug\net9.0\LimitationsGeneralizations.sourcelink.json
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_15LimitationsGeneralizations\LimitationsGeneralizations\LimitationsGeneralizations\obj\Debug\net9.0\LimitationsGeneralizations.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_15LimitationsGeneralizations\LimitationsGeneralizations\LimitationsGeneralizations\obj\Debug\net9.0\refint\LimitationsGeneralizations.dll
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_15LimitationsGeneralizations\LimitationsGeneralizations\LimitationsGeneralizations\obj\Debug\net9.0\LimitationsGeneralizations.pdb
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_15LimitationsGeneralizations\LimitationsGeneralizations\LimitationsGeneralizations\obj\Debug\net9.0\LimitationsGeneralizations.genruntimeconfig.cache
+C:\Users\argument\OneDrive\Рабочий стол\Metanit\_15LimitationsGeneralizations\LimitationsGeneralizations\LimitationsGeneralizations\obj\Debug\net9.0\ref\LimitationsGeneralizations.dll
