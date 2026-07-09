@@ -1,3 +1,76 @@
+# List<T> - основы
+
+List<T> - динамический список, который хранит элементы одного типа. Размер автоматически увеличивается при добавлении элементов.
+
+## Создание списка
+
+Пустой список
+```csharp
+List<string> people = new List<string>();
+```
+
+С начальными значениями
+```c#
+List<string> people = new List<string>() { "Tom", "Bob", "Sam" };
+```
+
+Из другой коллекции
+```c#
+List<string> people = new List<string>() { "Tom", "Bob" };
+List<string> employees = new List<string>(people);
+```
+
+С добавлением своих элементов + из другой коллекции
+```c#
+List<string> employees = new List<string>(people) { "Mike" };
+// employees = ["Tom", "Bob", "Mike"]
+```
+
+С указанием начальной ёмкости
+```c#
+List<string> people = new List<string>(16);   // выделяем место на 16 элементов
+```
+
+С помощью выражений коллекций (C# 12+)
+```c#
+List<string> people = ["Tom", "Bob", "Sam"];
+List<string> employees = [];   // пустой список
+```
+
+## Обращение к элементам
+
+```c#
+var people = new List<string>() { "Tom", "Bob", "Sam" };
+
+string first = people[0];    // Tom
+people[1] = "Mike";          // замена элемента
+```
+
+## Перебор списка
+```c#
+foreach (var person in people)
+{
+    Console.WriteLine(person);
+}
+
+for (int i = 0; i < people.Count; i++)
+{
+    Console.WriteLine(people[i]);
+}
+```
+
+- `AddFirst(T) / AddFirst(node)` - Вставить в начало
+- `AddLast(T) / AddLast(node)` - Вставить в конец
+- `AddAfter(node, T) / AddAfter(node, newNode)` - Вставить после указанного узла
+- `AddBefore(node, T) / AddBefore(node, newNode)` - Вставить перед указанным узлом
+- `RemoveFirst()` - Удалить первый
+- `RemoveLast()` - Удалить последний
+- `Remove(T)` - Удалить по значению
+- `Remove(node)` - Удалить конкретный узел
+- `Find(T)` - Найти узел по значению
+- `FindLast(T)` - Найти узел (с конца)
+- `Clear()` - Очистить всё
+
 ## Add(T item) - добавление элемента
 
 ```c#
