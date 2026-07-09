@@ -55,3 +55,14 @@ void Create<T>() where T : new()
     T obj = new T();   //  работает, потому что new() гарантирует конструктор
 }
 ```
+
+Несколько ограничений
+
+```c#
+class Messenger<T, P>
+    where T : Message
+    where P : Person
+{
+    public void Send(T msg, P sender) { }
+}
+```
