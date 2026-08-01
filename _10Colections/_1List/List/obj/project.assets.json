@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\argument\\OneDrive\\Рабочий стол\\Metanit\\_10Colections\\List\\List\\List\\List.csproj",
+      "projectUniqueName": "C:\\Users\\argument\\OneDrive\\Рабочий стол\\Metanit\\_10Colections\\_1List\\List\\List.csproj",
       "projectName": "List",
-      "projectPath": "C:\\Users\\argument\\OneDrive\\Рабочий стол\\Metanit\\_10Colections\\List\\List\\List\\List.csproj",
+      "projectPath": "C:\\Users\\argument\\OneDrive\\Рабочий стол\\Metanit\\_10Colections\\_1List\\List\\List.csproj",
       "packagesPath": "C:\\Users\\argument\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\argument\\OneDrive\\Рабочий стол\\Metanit\\_10Colections\\List\\List\\List\\obj\\",
+      "outputPath": "C:\\Users\\argument\\OneDrive\\Рабочий стол\\Metanit\\_10Colections\\_1List\\List\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
