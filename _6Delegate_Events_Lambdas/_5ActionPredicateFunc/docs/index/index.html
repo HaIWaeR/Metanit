@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Action, Predicate, Func — шпаргалка</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#faf9fc;
+  --ink:#191428;
+  --slate:#6b6480;
+  --violet:#512bd4;
+  --violet-soft:#ebe6fb;
+  --violet-line:#d6ccf7;
+  --amber:#a35a06;
+  --amber-soft:#fbf1e2;
+  --teal:#0f6b62;
+  --rule:#e2dfea;
+}
+
+*{box-sizing:border-box}
+
+html{-webkit-text-size-adjust:100%}
+
+body{
+  margin:0;
+  background:var(--paper);
+  color:var(--ink);
+  font-family:"Source Serif 4",Georgia,serif;
+  font-size:17px;
+  line-height:1.65;
+}
+
+.wrap{
+  max-width:720px;
+  margin:0 auto;
+  padding:56px 24px 96px;
+}
+
+/* ---------- type ---------- */
+
+h1{
+  font-family:"JetBrains Mono",ui-monospace,monospace;
+  font-weight:700;
+  font-size:clamp(26px,6.2vw,40px);
+  line-height:1.15;
+  letter-spacing:-.02em;
+  margin:0 0 14px;
+}
+h1 .angle{color:var(--violet-line)}
+
+h2{
+  font-family:"JetBrains Mono",ui-monospace,monospace;
+  font-weight:700;
+  font-size:22px;
+  letter-spacing:-.01em;
+  margin:0 0 4px;
+  scroll-margin-top:20px;
+}
+
+h3{
+  font-family:"JetBrains Mono",ui-monospace,monospace;
+  font-weight:500;
+  font-size:15px;
+  margin:32px 0 10px;
+  color:var(--slate);
+}
+
+.lede{
+  font-size:19px;
+  color:var(--slate);
+  margin:0 0 40px;
+  max-width:60ch;
+}
+
+.sub{
+  margin:0 0 22px;
+  color:var(--slate);
+  font-size:16px;
+}
+
+p{margin:0 0 18px;max-width:66ch}
+
+section{
+  margin-top:64px;
+  padding-top:28px;
+  border-top:1px solid var(--rule);
+}
+
+code{
+  font-family:"JetBrains Mono",ui-monospace,monospace;
+  font-size:.86em;
+  background:var(--violet-soft);
+  padding:1px 5px;
+  border-radius:3px;
+}
+
+/* ---------- code blocks ---------- */
+
+pre{
+  font-family:"JetBrains Mono",ui-monospace,monospace;
+  font-size:13.5px;
+  line-height:1.7;
+  background:#fff;
+  border:1px solid var(--rule);
+  border-left:3px solid var(--violet-line);
+  border-radius:3px;
+  padding:16px 18px;
+  overflow-x:auto;
+  margin:0 0 20px;
+}
+pre code{background:none;padding:0;font-size:inherit}
+.c{color:var(--slate);font-style:italic}
+.k{color:var(--violet);font-weight:500}
+.s{color:var(--teal)}
+.bad{color:#a01b1b}
+
+/* ---------- signature reader ---------- */
+
+.reader{
+  background:#fff;
+  border:1px solid var(--violet-line);
+  border-radius:4px;
+  padding:22px 22px 26px;
+  margin-bottom:44px;
+}
+
+.tabs{
+  display:flex;
+  gap:6px;
+  margin-bottom:26px;
+  flex-wrap:wrap;
+}
+.tabs button{
+  font-family:"JetBrains Mono",ui-monospace,monospace;
+  font-size:13px;
+  font-weight:500;
+  color:var(--slate);
+  background:transparent;
+  border:1px solid var(--rule);
+  border-radius:3px;
+  padding:6px 12px;
+  cursor:pointer;
+}
+.tabs button:hover{border-color:var(--violet-line);color:var(--ink)}
+.tabs button[aria-selected="true"]{
+  background:var(--violet);
+  border-color:var(--violet);
+  color:#fff;
+}
+.tabs button:focus-visible{outline:2px solid var(--violet);outline-offset:2px}
+
+.sig{
+  font-family:"JetBrains Mono",ui-monospace,monospace;
+  font-size:clamp(17px,4.4vw,25px);
+  font-weight:500;
+  letter-spacing:-.01em;
+  margin-bottom:20px;
+  white-space:nowrap;
+  overflow-x:auto;
+  padding-bottom:6px;
+}
+.sig .punct{color:var(--violet-line)}
+.sig .in{
+  border-bottom:3px solid var(--violet);
+  padding-bottom:2px;
+}
+.sig .out{
+  border-bottom:3px solid var(--amber);
+  padding-bottom:2px;
+}
+.sig .ghost{
+  color:var(--amber);
+  opacity:.55;
+  font-size:.72em;
+  margin-left:8px;
+}
+
+.legend{
+  display:grid;
+  grid-template-columns:auto 1fr;
+  gap:8px 14px;
+  align-items:baseline;
+  font-size:15px;
+}
+.legend dt{
+  font-family:"JetBrains Mono",ui-monospace,monospace;
+  font-size:12px;
+  font-weight:500;
+  white-space:nowrap;
+}
+.legend dt.in{color:var(--violet)}
+.legend dt.out{color:var(--amber)}
+.legend dd{margin:0;color:var(--ink)}
+.reader .read{
+  margin:22px 0 0;
+  padding-top:16px;
+  border-top:1px solid var(--rule);
+  font-size:16px;
+  color:var(--slate);
+  max-width:none;
+}
+
+/* ---------- tables ---------- */
+
+table{
+  width:100%;
+  border-collapse:collapse;
+  margin:0 0 22px;
+  font-size:16px;
+}
+th,td{
+  text-align:left;
+  padding:9px 12px 9px 0;
+  border-bottom:1px solid var(--rule);
+  vertical-align:top;
+}
+th{
+  font-family:"JetBrains Mono",ui-monospace,monospace;
+  font-size:12px;
+  font-weight:500;
+  color:var(--slate);
+  border-bottom-color:var(--ink);
+}
+tr:last-child td{border-bottom:none}
+
+/* ---------- callouts ---------- */
+
+.warn{
+  background:var(--amber-soft);
+  border-left:3px solid var(--amber);
+  border-radius:0 3px 3px 0;
+  padding:16px 18px 2px;
+  margin:0 0 22px;
+}
+.warn .title{
+  font-family:"JetBrains Mono",ui-monospace,monospace;
+  font-size:13px;
+  font-weight:700;
+  color:var(--amber);
+  margin-bottom:8px;
+}
+.warn pre{background:#fff;border-color:#eddfc7;border-left-color:var(--amber)}
+.warn p:last-of-type{margin-bottom:16px}
+
+/* ---------- gotchas ---------- */
+
+.gotcha{margin-bottom:34px}
+.gotcha h4{
+  font-family:"JetBrains Mono",ui-monospace,monospace;
+  font-size:15px;
+  font-weight:500;
+  margin:0 0 8px;
+}
+.gotcha h4 .num{color:var(--violet-line);margin-right:8px}
+
+/* ---------- closing ---------- */
+
+.closing{
+  margin-top:64px;
+  padding:26px 0 0;
+  border-top:2px solid var(--ink);
+}
+.closing dl{
+  display:grid;
+  grid-template-columns:auto 1fr;
+  gap:10px 18px;
+  margin:0;
+  align-items:baseline;
+}
+.closing dt{
+  font-family:"JetBrains Mono",ui-monospace,monospace;
+  font-weight:700;
+  font-size:16px;
+  color:var(--violet);
+}
+.closing dd{margin:0;font-size:18px}
+
+@media (max-width:520px){
+  body{font-size:16px}
+  .wrap{padding:36px 18px 72px}
+  pre{font-size:12.5px}
+  .legend{grid-template-columns:1fr;gap:2px}
+  .legend dt{margin-top:8px}
+}
+
+@media (prefers-reduced-motion:reduce){
+  *{transition:none!important;animation:none!important}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<h1>Action <span class="angle">·</span> Predicate <span class="angle">·</span> Func</h1>
+<p class="lede">Встроенные обобщённые делегаты .NET. Нужны, чтобы не объявлять свой <code>delegate</code> под каждую сигнатуру.</p>
+
+<div class="reader">
+  <div class="tabs" role="tablist" aria-label="Выбор делегата">
+    <button role="tab" data-key="action" aria-selected="true">Action&lt;int, int&gt;</button>
+    <button role="tab" data-key="func" aria-selected="false">Func&lt;int, int&gt;</button>
+    <button role="tab" data-key="func3" aria-selected="false">Func&lt;int, int, string&gt;</button>
+    <button role="tab" data-key="pred" aria-selected="false">Predicate&lt;int&gt;</button>
+  </div>
+
+  <div class="sig" id="sig"></div>
+
+  <dl class="legend">
+    <dt class="in">берёт</dt><dd id="takes"></dd>
+    <dt class="out">отдаёт</dt><dd id="gives"></dd>
+  </dl>
+
+  <p class="read" id="read"></p>
+</div>
+
+<section>
+<h2>Зачем они нужны</h2>
+<p class="sub">Раньше под каждую сигнатуру объявляли отдельный тип. Теперь — берём готовый.</p>
+
+<pre><code><span class="c">// Было</span>
+<span class="k">delegate</span> <span class="k">int</span> Operation(<span class="k">int</span> x, <span class="k">int</span> y);
+Operation op = Add;
+
+<span class="c">// Стало</span>
+Func&lt;<span class="k">int</span>, <span class="k">int</span>, <span class="k">int</span>&gt; op = Add;</code></pre>
+
+<h3>Что брать в каком случае</h3>
+<table>
+<thead><tr><th>Метод возвращает</th><th>Берём</th></tr></thead>
+<tbody>
+<tr><td><code>void</code></td><td><code>Action&lt;...&gt;</code></td></tr>
+<tr><td><code>bool</code>, один параметр</td><td><code>Predicate&lt;T&gt;</code> или <code>Func&lt;T, bool&gt;</code></td></tr>
+<tr><td>что угодно другое</td><td><code>Func&lt;..., TResult&gt;</code></td></tr>
+</tbody>
+</table>
+</section>
+
+<section>
+<h2>Action</h2>
+<p class="sub">Действие без результата. Возвращает всегда <code>void</code>, параметров от 0 до 16. Все типы в скобках — только входные.</p>
+
+<pre><code><span class="k">public</span> <span class="k">delegate</span> <span class="k">void</span> Action();
+<span class="k">public</span> <span class="k">delegate</span> <span class="k">void</span> Action&lt;<span class="k">in</span> T&gt;(T obj);</code></pre>
+
+<pre><code>Action greet = () =&gt; Console.WriteLine(<span class="s">"Привет!"</span>);
+Action&lt;<span class="k">string</span>&gt; print = s =&gt; Console.WriteLine(s);
+Action&lt;<span class="k">int</span>, <span class="k">int</span>&gt; add = (x, y) =&gt; Console.WriteLine(x + y);
+
+greet();         <span class="c">// Привет!</span>
+print(<span class="s">"текст"</span>);  <span class="c">// текст</span>
+add(2, 3);       <span class="c">// 5</span></code></pre>
+
+<h3>Типичное применение</h3>
+<p>Передать в метод «что сделать». Сам метод не знает, что именно делают с числами — он знает только сигнатуру.</p>
+
+<pre><code><span class="k">void</span> DoOperation(<span class="k">int</span> a, <span class="k">int</span> b, Action&lt;<span class="k">int</span>, <span class="k">int</span>&gt; op) =&gt; op(a, b);
+
+<span class="k">void</span> Add(<span class="k">int</span> x, <span class="k">int</span> y)      =&gt; Console.WriteLine($<span class="s">"{x} + {y} = {x + y}"</span>);
+<span class="k">void</span> Multiply(<span class="k">int</span> x, <span class="k">int</span> y) =&gt; Console.WriteLine($<span class="s">"{x} * {y} = {x * y}"</span>);
+
+DoOperation(10, 6, Add);       <span class="c">// 10 + 6 = 16</span>
+DoOperation(10, 6, Multiply);  <span class="c">// 10 * 6 = 60</span></code></pre>
+</section>
+
+<section>
+<h2>Func</h2>
+<p class="sub">Действие с результатом. Последний тип в скобках — возвращаемое значение, до 16 параметров перед ним.</p>
+
+<pre><code>TResult Func&lt;<span class="k">out</span> TResult&gt;();
+TResult Func&lt;<span class="k">in</span> T, <span class="k">out</span> TResult&gt;(T arg);
+TResult Func&lt;<span class="k">in</span> T1, <span class="k">in</span> T2, <span class="k">out</span> TResult&gt;(T1 arg1, T2 arg2);</code></pre>
+
+<pre><code>Func&lt;<span class="k">int</span>&gt; getNumber = () =&gt; 42;                     <span class="c">// () → int</span>
+Func&lt;<span class="k">int</span>, <span class="k">int</span>&gt; square = x =&gt; x * x;                 <span class="c">// int → int</span>
+Func&lt;<span class="k">int</span>, <span class="k">int</span>, <span class="k">string</span>&gt; join = (a, b) =&gt; $<span class="s">"{a}{b}"</span>;  <span class="c">// (int, int) → string</span>
+
+Console.WriteLine(join(1, 5));  <span class="c">// 15</span></code></pre>
+
+<pre><code><span class="k">int</span> DoOperation(<span class="k">int</span> n, Func&lt;<span class="k">int</span>, <span class="k">int</span>&gt; operation) =&gt; operation(n);
+
+<span class="k">int</span> DoubleNumber(<span class="k">int</span> n) =&gt; 2 * n;
+<span class="k">int</span> SquareNumber(<span class="k">int</span> n) =&gt; n * n;
+
+Console.WriteLine(DoOperation(6, DoubleNumber)); <span class="c">// 12</span>
+Console.WriteLine(DoOperation(6, SquareNumber)); <span class="c">// 36</span></code></pre>
+
+<div class="warn">
+  <div class="title">Главная путаница</div>
+  <pre><code>Action&lt;<span class="k">int</span>, <span class="k">int</span>&gt;   <span class="c">// (int, int) → void   ДВА параметра</span>
+Func&lt;<span class="k">int</span>, <span class="k">int</span>&gt;     <span class="c">// (int)      → int    ОДИН параметр!</span></code></pre>
+  <p>Выглядят почти одинаково, а смысл разный. Читай <code>Func</code> справа налево: «отдаю последнее, беру остальное».</p>
+</div>
+</section>
+
+<section>
+<h2>Predicate</h2>
+<p class="sub">Проверка условия: один параметр, результат <code>bool</code>. По сути частный случай <code>Func&lt;T, bool&gt;</code>.</p>
+
+<pre><code><span class="k">delegate</span> <span class="k">bool</span> Predicate&lt;<span class="k">in</span> T&gt;(T obj);</code></pre>
+
+<pre><code>Predicate&lt;<span class="k">int</span>&gt; isPositive = x =&gt; x &gt; 0;
+Predicate&lt;<span class="k">string</span>&gt; isEmpty = s =&gt; s.Length == 0;
+
+Console.WriteLine(isPositive(20));   <span class="c">// True</span>
+Console.WriteLine(isPositive(-20));  <span class="c">// False</span></code></pre>
+
+<div class="warn">
+  <div class="title">Типы несовместимы напрямую</div>
+  <p>Сигнатура одна, но это разные типы — присвоить одно другому нельзя.</p>
+  <pre><code>Predicate&lt;<span class="k">int</span>&gt; p = x =&gt; x &gt; 0;
+Func&lt;<span class="k">int</span>, <span class="k">bool</span>&gt; f  = p;          <span class="bad">// ОШИБКА компиляции</span>
+Func&lt;<span class="k">int</span>, <span class="k">bool</span>&gt; f2 = x =&gt; p(x);  <span class="c">// так работает</span></code></pre>
+</div>
+
+<h3>Где встретишь на практике</h3>
+<table>
+<thead><tr><th>API</th><th>Принимает</th></tr></thead>
+<tbody>
+<tr><td><code>List&lt;T&gt;</code>: Find, FindAll, RemoveAll, Exists</td><td><code>Predicate&lt;T&gt;</code></td></tr>
+<tr><td>LINQ: Where, Any, All, First</td><td><code>Func&lt;T, bool&gt;</code></td></tr>
+</tbody>
+</table>
+<p><code>Predicate</code> появился в .NET 2.0, <code>Func</code> — в 3.5. Разница чисто историческая.</p>
+</section>
+
+<section>
+<h2>Грабли</h2>
+
+<div class="gotcha">
+  <h4><span class="num">1</span>Многоадресность у Func теряет результаты</h4>
+  <pre><code>Func&lt;<span class="k">int</span>&gt; f = () =&gt; 1;
+f += () =&gt; 2;
+Console.WriteLine(f());  <span class="c">// 2, первый результат потерян</span></code></pre>
+  <p>Поэтому цепочки делают на <code>Action</code> (события), а не на <code>Func</code>.</p>
+</div>
+
+<div class="gotcha">
+  <h4><span class="num">2</span>Лямбда-блок требует return</h4>
+  <pre><code>Func&lt;<span class="k">int</span>, <span class="k">int</span>&gt; a = x =&gt; x * 2;              <span class="c">// выражение — без return</span>
+Func&lt;<span class="k">int</span>, <span class="k">int</span>&gt; b = x =&gt; { <span class="k">return</span> x * 2; };  <span class="c">// блок — return обязателен</span></code></pre>
+</div>
+
+<div class="gotcha">
+  <h4><span class="num">3</span>in / out — это контра- и ковариантность</h4>
+  <pre><code>Action&lt;<span class="k">object</span>&gt; ao = o =&gt; Console.WriteLine(o);
+Action&lt;<span class="k">string</span>&gt; as_ = ao;   <span class="c">// OK: in T — контравариантность</span>
+
+Func&lt;<span class="k">string</span>&gt; fs = () =&gt; <span class="s">"hi"</span>;
+Func&lt;<span class="k">object</span>&gt; fo = fs;      <span class="c">// OK: out T — ковариантность</span></code></pre>
+</div>
+
+<div class="gotcha">
+  <h4><span class="num">4</span>Метод подходит по сигнатуре, а не по имени</h4>
+  <p>Компилятор сверяет только типы параметров и возвращаемого значения. Имя метода роли не играет.</p>
+</div>
+
+<div class="gotcha">
+  <h4><span class="num">5</span>Пустой делегат бросает NullReferenceException</h4>
+  <pre><code>op?.Invoke(a, b);</code></pre>
+</div>
+</section>
+
+<div class="closing">
+  <dl>
+    <dt>Action</dt><dd>сделай</dd>
+    <dt>Func</dt><dd>посчитай и верни</dd>
+    <dt>Predicate</dt><dd>ответь да или нет</dd>
+  </dl>
+</div>
+
+</div>
+
+<script>
+const data = {
+  action: {
+    sig: 'Action<span class="punct">&lt;</span><span class="in">int, int</span><span class="punct">&gt;</span>',
+    takes: 'два <code>int</code>',
+    gives: 'ничего — <code>void</code> зашит в сам делегат',
+    read: 'Все типы в скобках — параметры. Возврата нет по определению, поэтому в скобках его и не ищи.'
+  },
+  func: {
+    sig: 'Func<span class="punct">&lt;</span><span class="in">int</span><span class="punct">, </span><span class="out">int</span><span class="punct">&gt;</span>',
+    takes: 'один <code>int</code>',
+    gives: '<code>int</code> — последний тип в скобках',
+    read: 'Тот же набор символов, что у Action выше, но параметр здесь только один. Последнее место всегда занято результатом.'
+  },
+  func3: {
+    sig: 'Func<span class="punct">&lt;</span><span class="in">int, int</span><span class="punct">, </span><span class="out">string</span><span class="punct">&gt;</span>',
+    takes: 'два <code>int</code>',
+    gives: '<code>string</code>',
+    read: 'Читай справа налево: отдаю string, беру всё остальное. Параметров может быть до 16, результат — всегда один и всегда последний.'
+  },
+  pred: {
+    sig: 'Predicate<span class="punct">&lt;</span><span class="in">int</span><span class="punct">&gt;</span><span class="ghost">→ bool</span>',
+    takes: 'один <code>int</code>',
+    gives: '<code>bool</code> — он не пишется, он часть самого типа',
+    read: 'Ровно та же сигнатура, что у Func&lt;int, bool&gt;, но это другой тип. Присвоить одно другому компилятор не даст.'
+  }
+};
+
+const tabs = document.querySelectorAll('.tabs button');
+const sig = document.getElementById('sig');
+const takes = document.getElementById('takes');
+const gives = document.getElementById('gives');
+const read = document.getElementById('read');
+
+function show(key){
+  const d = data[key];
+  sig.innerHTML = d.sig;
+  takes.innerHTML = d.takes;
+  gives.innerHTML = d.gives;
+  read.innerHTML = d.read;
+  tabs.forEach(t => t.setAttribute('aria-selected', String(t.dataset.key === key)));
+}
+
+tabs.forEach(t => t.addEventListener('click', () => show(t.dataset.key)));
+show('action');
+</script>
+</body>
+</html>
