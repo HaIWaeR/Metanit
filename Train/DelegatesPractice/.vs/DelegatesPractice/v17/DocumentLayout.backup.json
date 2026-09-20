@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\Train\\DelegatesPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA268F75-9D26-432C-AEB7-AFD21B575FCA}|DelegatesPractice\\DelegatesPractice.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\train\\delegatespractice\\delegatespractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA268F75-9D26-432C-AEB7-AFD21B575FCA}|DelegatesPractice\\DelegatesPractice.csproj|solutionrelative:delegatespractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA268F75-9D26-432C-AEB7-AFD21B575FCA}|DelegatesPractice\\DelegatesPractice.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\train\\delegatespractice\\delegatespractice\\processing\\discountrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA268F75-9D26-432C-AEB7-AFD21B575FCA}|DelegatesPractice\\DelegatesPractice.csproj|solutionrelative:delegatespractice\\processing\\discountrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA268F75-9D26-432C-AEB7-AFD21B575FCA}|DelegatesPractice\\DelegatesPractice.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\train\\delegatespractice\\delegatespractice\\processing\\loggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA268F75-9D26-432C-AEB7-AFD21B575FCA}|DelegatesPractice\\DelegatesPractice.csproj|solutionrelative:delegatespractice\\processing\\loggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA268F75-9D26-432C-AEB7-AFD21B575FCA}|DelegatesPractice\\DelegatesPractice.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\train\\delegatespractice\\delegatespractice\\processing\\orderfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA268F75-9D26-432C-AEB7-AFD21B575FCA}|DelegatesPractice\\DelegatesPractice.csproj|solutionrelative:delegatespractice\\processing\\orderfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA268F75-9D26-432C-AEB7-AFD21B575FCA}|DelegatesPractice\\DelegatesPractice.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\train\\delegatespractice\\delegatespractice\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA268F75-9D26-432C-AEB7-AFD21B575FCA}|DelegatesPractice\\DelegatesPractice.csproj|solutionrelative:delegatespractice\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA268F75-9D26-432C-AEB7-AFD21B575FCA}|DelegatesPractice\\DelegatesPractice.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\train\\delegatespractice\\delegatespractice\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA268F75-9D26-432C-AEB7-AFD21B575FCA}|DelegatesPractice\\DelegatesPractice.csproj|solutionrelative:delegatespractice\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA268F75-9D26-432C-AEB7-AFD21B575FCA}|DelegatesPractice\\DelegatesPractice.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\train\\delegatespractice\\delegatespractice\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA268F75-9D26-432C-AEB7-AFD21B575FCA}|DelegatesPractice\\DelegatesPractice.csproj|solutionrelative:delegatespractice\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA268F75-9D26-432C-AEB7-AFD21B575FCA}|DelegatesPractice\\DelegatesPractice.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\train\\delegatespractice\\delegatespractice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA268F75-9D26-432C-AEB7-AFD21B575FCA}|DelegatesPractice\\DelegatesPractice.csproj|solutionrelative:delegatespractice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiscountRule.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\Train\\DelegatesPractice\\DelegatesPractice\\Processing\\DiscountRule.cs",
+              "RelativeDocumentMoniker": "DelegatesPractice\\Processing\\DiscountRule.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\Train\\DelegatesPractice\\DelegatesPractice\\Processing\\DiscountRule.cs",
+              "RelativeToolTip": "DelegatesPractice\\Processing\\DiscountRule.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wCIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T19:36:57.942Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\Train\\DelegatesPractice\\DelegatesPractice\\Processing\\OrderFilter.cs",
+              "RelativeDocumentMoniker": "DelegatesPractice\\Processing\\OrderFilter.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\Train\\DelegatesPractice\\DelegatesPractice\\Processing\\OrderFilter.cs",
+              "RelativeToolTip": "DelegatesPractice\\Processing\\OrderFilter.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T13:28:51.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\Train\\DelegatesPractice\\DelegatesPractice\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "DelegatesPractice\\Models\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\Train\\DelegatesPractice\\DelegatesPractice\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "DelegatesPractice\\Models\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T12:52:58.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Loggers.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\Train\\DelegatesPractice\\DelegatesPractice\\Processing\\Loggers.cs",
+              "RelativeDocumentMoniker": "DelegatesPractice\\Processing\\Loggers.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\Train\\DelegatesPractice\\DelegatesPractice\\Processing\\Loggers.cs",
+              "RelativeToolTip": "DelegatesPractice\\Processing\\Loggers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T20:49:01.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\Train\\DelegatesPractice\\DelegatesPractice\\Program.cs",
+              "RelativeDocumentMoniker": "DelegatesPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\Train\\DelegatesPractice\\DelegatesPractice\\Program.cs",
+              "RelativeToolTip": "DelegatesPractice\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwE4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T20:43:10.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\Train\\DelegatesPractice\\DelegatesPractice\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DelegatesPractice\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\Train\\DelegatesPractice\\DelegatesPractice\\Models\\Order.cs",
+              "RelativeToolTip": "DelegatesPractice\\Models\\Order.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T20:43:08.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\Train\\DelegatesPractice\\DelegatesPractice\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "DelegatesPractice\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\Train\\DelegatesPractice\\DelegatesPractice\\Models\\Client.cs",
+              "RelativeToolTip": "DelegatesPractice\\Models\\Client.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T20:31:36.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\Train\\DelegatesPractice\\DelegatesPractice\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "DelegatesPractice\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\Train\\DelegatesPractice\\DelegatesPractice\\Data\\SeedData.cs",
+              "RelativeToolTip": "DelegatesPractice\\Data\\SeedData.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T20:29:28.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

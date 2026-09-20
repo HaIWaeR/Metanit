@@ -1,0 +1,15 @@
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\Train\DelegatesPractice\DelegatesPractice\bin\Debug\net9.0\DelegatesPractice.exe
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\Train\DelegatesPractice\DelegatesPractice\bin\Debug\net9.0\DelegatesPractice.deps.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\Train\DelegatesPractice\DelegatesPractice\bin\Debug\net9.0\DelegatesPractice.runtimeconfig.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\Train\DelegatesPractice\DelegatesPractice\bin\Debug\net9.0\DelegatesPractice.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\Train\DelegatesPractice\DelegatesPractice\bin\Debug\net9.0\DelegatesPractice.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\Train\DelegatesPractice\DelegatesPractice\obj\Debug\net9.0\DelegatesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\Train\DelegatesPractice\DelegatesPractice\obj\Debug\net9.0\DelegatesPractice.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\Train\DelegatesPractice\DelegatesPractice\obj\Debug\net9.0\DelegatesPractice.AssemblyInfo.cs
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\Train\DelegatesPractice\DelegatesPractice\obj\Debug\net9.0\DelegatesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\Train\DelegatesPractice\DelegatesPractice\obj\Debug\net9.0\DelegatesPractice.sourcelink.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\Train\DelegatesPractice\DelegatesPractice\obj\Debug\net9.0\DelegatesPractice.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\Train\DelegatesPractice\DelegatesPractice\obj\Debug\net9.0\refint\DelegatesPractice.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\Train\DelegatesPractice\DelegatesPractice\obj\Debug\net9.0\DelegatesPractice.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\Train\DelegatesPractice\DelegatesPractice\obj\Debug\net9.0\DelegatesPractice.genruntimeconfig.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\Train\DelegatesPractice\DelegatesPractice\obj\Debug\net9.0\ref\DelegatesPractice.dll
