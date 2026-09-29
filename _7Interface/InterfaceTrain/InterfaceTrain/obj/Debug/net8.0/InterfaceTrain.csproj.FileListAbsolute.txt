@@ -1,0 +1,15 @@
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceTrain\obj\Debug\net8.0\InterfaceTrain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceTrain\obj\Debug\net8.0\InterfaceTrain.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceTrain\obj\Debug\net8.0\InterfaceTrain.AssemblyInfo.cs
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceTrain\obj\Debug\net8.0\InterfaceTrain.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceTrain\obj\Debug\net8.0\InterfaceTrain.sourcelink.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceTrain\bin\Debug\net8.0\InterfaceTrain.exe
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceTrain\bin\Debug\net8.0\InterfaceTrain.deps.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceTrain\bin\Debug\net8.0\InterfaceTrain.runtimeconfig.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceTrain\bin\Debug\net8.0\InterfaceTrain.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceTrain\bin\Debug\net8.0\InterfaceTrain.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceTrain\obj\Debug\net8.0\InterfaceTrain.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceTrain\obj\Debug\net8.0\refint\InterfaceTrain.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceTrain\obj\Debug\net8.0\InterfaceTrain.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceTrain\obj\Debug\net8.0\InterfaceTrain.genruntimeconfig.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceTrain\obj\Debug\net8.0\ref\InterfaceTrain.dll

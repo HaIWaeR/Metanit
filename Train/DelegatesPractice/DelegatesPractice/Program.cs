@@ -79,11 +79,9 @@ namespace DelegatesPractice
             Console.WriteLine($"Было {order3.Amount}");
             Console.WriteLine($"Скидка 10%: {tenPercent(order3)}");
             Console.WriteLine($"Скидка 20%: {twentyPercent(order3)}");
-
-
-
-
-
+            
+            // -------------------------------------------------------------------------------
+            Console.WriteLine($"\n{new string('_', 50)}\n");
         }
     }
 }

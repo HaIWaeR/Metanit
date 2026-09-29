@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_1.1 Generic_Type\\GenericTypeTrain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFA4E0F-1015-4B6C-8F6D-900F3CCEEECD}|GenericTypeTrain\\GenericTypeTrain.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_1.1 generic_type\\generictypetrain\\generictypetrain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFA4E0F-1015-4B6C-8F6D-900F3CCEEECD}|GenericTypeTrain\\GenericTypeTrain.csproj|solutionrelative:generictypetrain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFA4E0F-1015-4B6C-8F6D-900F3CCEEECD}|GenericTypeTrain\\GenericTypeTrain.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_1.1 generic_type\\generictypetrain\\generictypetrain\\shelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFA4E0F-1015-4B6C-8F6D-900F3CCEEECD}|GenericTypeTrain\\GenericTypeTrain.csproj|solutionrelative:generictypetrain\\shelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFA4E0F-1015-4B6C-8F6D-900F3CCEEECD}|GenericTypeTrain\\GenericTypeTrain.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_1.1 generic_type\\generictypetrain\\generictypetrain\\pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFA4E0F-1015-4B6C-8F6D-900F3CCEEECD}|GenericTypeTrain\\GenericTypeTrain.csproj|solutionrelative:generictypetrain\\pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFA4E0F-1015-4B6C-8F6D-900F3CCEEECD}|GenericTypeTrain\\GenericTypeTrain.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_1.1 generic_type\\generictypetrain\\generictypetrain\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFA4E0F-1015-4B6C-8F6D-900F3CCEEECD}|GenericTypeTrain\\GenericTypeTrain.csproj|solutionrelative:generictypetrain\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shelf.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_1.1 Generic_Type\\GenericTypeTrain\\GenericTypeTrain\\Shelf.cs",
+              "RelativeDocumentMoniker": "GenericTypeTrain\\Shelf.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_1.1 Generic_Type\\GenericTypeTrain\\GenericTypeTrain\\Shelf.cs",
+              "RelativeToolTip": "GenericTypeTrain\\Shelf.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T09:19:06.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pair.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_1.1 Generic_Type\\GenericTypeTrain\\GenericTypeTrain\\Pair.cs",
+              "RelativeDocumentMoniker": "GenericTypeTrain\\Pair.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_1.1 Generic_Type\\GenericTypeTrain\\GenericTypeTrain\\Pair.cs",
+              "RelativeToolTip": "GenericTypeTrain\\Pair.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T23:35:51.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_1.1 Generic_Type\\GenericTypeTrain\\GenericTypeTrain\\Cell.cs",
+              "RelativeDocumentMoniker": "GenericTypeTrain\\Cell.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_1.1 Generic_Type\\GenericTypeTrain\\GenericTypeTrain\\Cell.cs",
+              "RelativeToolTip": "GenericTypeTrain\\Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T23:12:18.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_1.1 Generic_Type\\GenericTypeTrain\\GenericTypeTrain\\Program.cs",
+              "RelativeDocumentMoniker": "GenericTypeTrain\\Program.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_1.1 Generic_Type\\GenericTypeTrain\\GenericTypeTrain\\Program.cs",
+              "RelativeToolTip": "GenericTypeTrain\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:08:53.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

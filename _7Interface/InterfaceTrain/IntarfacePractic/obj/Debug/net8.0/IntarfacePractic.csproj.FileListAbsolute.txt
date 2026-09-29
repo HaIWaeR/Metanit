@@ -1,0 +1,15 @@
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\bin\Debug\net8.0\IntarfacePractic.exe
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\bin\Debug\net8.0\IntarfacePractic.deps.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\bin\Debug\net8.0\IntarfacePractic.runtimeconfig.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\bin\Debug\net8.0\IntarfacePractic.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\bin\Debug\net8.0\IntarfacePractic.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\obj\Debug\net8.0\IntarfacePractic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\obj\Debug\net8.0\IntarfacePractic.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\obj\Debug\net8.0\IntarfacePractic.AssemblyInfo.cs
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\obj\Debug\net8.0\IntarfacePractic.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\obj\Debug\net8.0\IntarfacePractic.sourcelink.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\obj\Debug\net8.0\IntarfacePractic.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\obj\Debug\net8.0\refint\IntarfacePractic.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\obj\Debug\net8.0\IntarfacePractic.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\obj\Debug\net8.0\IntarfacePractic.genruntimeconfig.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\obj\Debug\net8.0\ref\IntarfacePractic.dll

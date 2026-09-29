@@ -1,0 +1,15 @@
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_1.1 Generic_Type\GenericTypeTrain\GenericTypeTrain\bin\Debug\net8.0\GenericTypeTrain.exe
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_1.1 Generic_Type\GenericTypeTrain\GenericTypeTrain\bin\Debug\net8.0\GenericTypeTrain.deps.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_1.1 Generic_Type\GenericTypeTrain\GenericTypeTrain\bin\Debug\net8.0\GenericTypeTrain.runtimeconfig.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_1.1 Generic_Type\GenericTypeTrain\GenericTypeTrain\bin\Debug\net8.0\GenericTypeTrain.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_1.1 Generic_Type\GenericTypeTrain\GenericTypeTrain\bin\Debug\net8.0\GenericTypeTrain.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_1.1 Generic_Type\GenericTypeTrain\GenericTypeTrain\obj\Debug\net8.0\GenericTypeTrain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_1.1 Generic_Type\GenericTypeTrain\GenericTypeTrain\obj\Debug\net8.0\GenericTypeTrain.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_1.1 Generic_Type\GenericTypeTrain\GenericTypeTrain\obj\Debug\net8.0\GenericTypeTrain.AssemblyInfo.cs
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_1.1 Generic_Type\GenericTypeTrain\GenericTypeTrain\obj\Debug\net8.0\GenericTypeTrain.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_1.1 Generic_Type\GenericTypeTrain\GenericTypeTrain\obj\Debug\net8.0\GenericTypeTrain.sourcelink.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_1.1 Generic_Type\GenericTypeTrain\GenericTypeTrain\obj\Debug\net8.0\GenericTypeTrain.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_1.1 Generic_Type\GenericTypeTrain\GenericTypeTrain\obj\Debug\net8.0\refint\GenericTypeTrain.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_1.1 Generic_Type\GenericTypeTrain\GenericTypeTrain\obj\Debug\net8.0\GenericTypeTrain.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_1.1 Generic_Type\GenericTypeTrain\GenericTypeTrain\obj\Debug\net8.0\GenericTypeTrain.genruntimeconfig.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_1.1 Generic_Type\GenericTypeTrain\GenericTypeTrain\obj\Debug\net8.0\ref\GenericTypeTrain.dll

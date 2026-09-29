@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE63EB05-23A8-4D85-BED4-B3AAB7F55882}|IntarfacePractic\\IntarfacePractic.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\intarfacepractic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE63EB05-23A8-4D85-BED4-B3AAB7F55882}|IntarfacePractic\\IntarfacePractic.csproj|solutionrelative:intarfacepractic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE63EB05-23A8-4D85-BED4-B3AAB7F55882}|IntarfacePractic\\IntarfacePractic.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\intarfacepractic\\intarfacepractic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE63EB05-23A8-4D85-BED4-B3AAB7F55882}|IntarfacePractic\\IntarfacePractic.csproj|solutionrelative:intarfacepractic\\intarfacepractic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE63EB05-23A8-4D85-BED4-B3AAB7F55882}|IntarfacePractic\\IntarfacePractic.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\intarfacepractic\\interface\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE63EB05-23A8-4D85-BED4-B3AAB7F55882}|IntarfacePractic\\IntarfacePractic.csproj|solutionrelative:intarfacepractic\\interface\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE63EB05-23A8-4D85-BED4-B3AAB7F55882}|IntarfacePractic\\IntarfacePractic.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\intarfacepractic\\services\\clientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE63EB05-23A8-4D85-BED4-B3AAB7F55882}|IntarfacePractic\\IntarfacePractic.csproj|solutionrelative:intarfacepractic\\services\\clientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE63EB05-23A8-4D85-BED4-B3AAB7F55882}|IntarfacePractic\\IntarfacePractic.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\intarfacepractic\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE63EB05-23A8-4D85-BED4-B3AAB7F55882}|IntarfacePractic\\IntarfacePractic.csproj|solutionrelative:intarfacepractic\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE63EB05-23A8-4D85-BED4-B3AAB7F55882}|IntarfacePractic\\IntarfacePractic.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\intarfacepractic\\repository\\telegramnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE63EB05-23A8-4D85-BED4-B3AAB7F55882}|IntarfacePractic\\IntarfacePractic.csproj|solutionrelative:intarfacepractic\\repository\\telegramnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE63EB05-23A8-4D85-BED4-B3AAB7F55882}|IntarfacePractic\\IntarfacePractic.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\intarfacepractic\\repository\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE63EB05-23A8-4D85-BED4-B3AAB7F55882}|IntarfacePractic\\IntarfacePractic.csproj|solutionrelative:intarfacepractic\\repository\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\interfacetrain\\entity\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|solutionrelative:interfacetrain\\entity\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\interfacetrain\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|solutionrelative:interfacetrain\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\interfacetrain\\intarface\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|solutionrelative:interfacetrain\\intarface\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\interfacetrain\\intarface\\ichargeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|solutionrelative:interfacetrain\\intarface\\ichargeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0BC2BD-02F4-40D8-A585-F97097C7EF3D}|InterfaceDiContain\\InterfaceDiContain.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\interfacedicontain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0BC2BD-02F4-40D8-A585-F97097C7EF3D}|InterfaceDiContain\\InterfaceDiContain.csproj|solutionrelative:interfacedicontain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\interfacetrain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|solutionrelative:interfacetrain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\interfacetrain\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|solutionrelative:interfacetrain\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\interfacetrain\\entity\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|solutionrelative:interfacetrain\\entity\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\interfacetrain\\repository\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|solutionrelative:interfacetrain\\repository\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\interfacetrain\\intarface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|solutionrelative:interfacetrain\\intarface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\interfacetrain\\entity\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|solutionrelative:interfacetrain\\entity\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\interfacetrain\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|solutionrelative:interfacetrain\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\interfacetrain\\intarface\\iplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|solutionrelative:interfacetrain\\intarface\\iplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE63EB05-23A8-4D85-BED4-B3AAB7F55882}|IntarfacePractic\\IntarfacePractic.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\intarfacepractic\\repository\\smsnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE63EB05-23A8-4D85-BED4-B3AAB7F55882}|IntarfacePractic\\IntarfacePractic.csproj|solutionrelative:intarfacepractic\\repository\\smsnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\metanit\\_7interface\\interfacetrain\\interfacetrain\\interfacetrain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E02EE52-2211-4344-B3EF-F75E830BD08A}|InterfaceTrain\\InterfaceTrain.csproj|solutionrelative:interfacetrain\\interfacetrain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientServices.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\IntarfacePractic\\Services\\ClientServices.cs",
+              "RelativeDocumentMoniker": "IntarfacePractic\\Services\\ClientServices.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\IntarfacePractic\\Services\\ClientServices.cs",
+              "RelativeToolTip": "IntarfacePractic\\Services\\ClientServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T23:32:30.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\IntarfacePractic\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "IntarfacePractic\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\IntarfacePractic\\Services\\OrderService.cs",
+              "RelativeToolTip": "IntarfacePractic\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T23:07:25.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceDiContain\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceDiContain\\Program.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceDiContain\\Program.cs",
+              "RelativeToolTip": "InterfaceDiContain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T22:41:09.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Entity\\Order.cs",
+              "RelativeDocumentMoniker": "InterfaceTrain\\Entity\\Order.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Entity\\Order.cs",
+              "RelativeToolTip": "InterfaceTrain\\Entity\\Order.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T21:52:53.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Entity\\Client.cs",
+              "RelativeDocumentMoniker": "InterfaceTrain\\Entity\\Client.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Entity\\Client.cs",
+              "RelativeToolTip": "InterfaceTrain\\Entity\\Client.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T21:01:23.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\repository\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "InterfaceTrain\\repository\\InMemoryRepository.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\repository\\InMemoryRepository.cs",
+              "RelativeToolTip": "InterfaceTrain\\repository\\InMemoryRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T20:41:09.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Intarface\\IEntity.cs",
+              "RelativeDocumentMoniker": "InterfaceTrain\\Intarface\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Intarface\\IEntity.cs",
+              "RelativeToolTip": "InterfaceTrain\\Intarface\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T20:32:02.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPlayable.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Intarface\\IPlayable.cs",
+              "RelativeDocumentMoniker": "InterfaceTrain\\Intarface\\IPlayable.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Intarface\\IPlayable.cs",
+              "RelativeToolTip": "InterfaceTrain\\Intarface\\IPlayable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T21:10:03.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Intarface\\IRepository.cs",
+              "RelativeDocumentMoniker": "InterfaceTrain\\Intarface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Intarface\\IRepository.cs",
+              "RelativeToolTip": "InterfaceTrain\\Intarface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T17:15:37.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "InterfaceTrain\\repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\repository\\ProductRepository.cs",
+              "RelativeToolTip": "InterfaceTrain\\repository\\ProductRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T17:22:27.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Entity\\Phone.cs",
+              "RelativeDocumentMoniker": "InterfaceTrain\\Entity\\Phone.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Entity\\Phone.cs",
+              "RelativeToolTip": "InterfaceTrain\\Entity\\Phone.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T21:09:34.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "InterfaceTrain\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Entity\\Product.cs",
+              "RelativeToolTip": "InterfaceTrain\\Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T17:13:33.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Speaker.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Entity\\Speaker.cs",
+              "RelativeDocumentMoniker": "InterfaceTrain\\Entity\\Speaker.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Entity\\Speaker.cs",
+              "RelativeToolTip": "InterfaceTrain\\Entity\\Speaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T21:09:32.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TelegramNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\IntarfacePractic\\repository\\TelegramNotifier.cs",
+              "RelativeDocumentMoniker": "IntarfacePractic\\repository\\TelegramNotifier.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\IntarfacePractic\\repository\\TelegramNotifier.cs",
+              "RelativeToolTip": "IntarfacePractic\\repository\\TelegramNotifier.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T12:02:25.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SmsNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\IntarfacePractic\\repository\\SmsNotifier.cs",
+              "RelativeDocumentMoniker": "IntarfacePractic\\repository\\SmsNotifier.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\IntarfacePractic\\repository\\SmsNotifier.cs",
+              "RelativeToolTip": "IntarfacePractic\\repository\\SmsNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T12:02:14.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceTrain\\Program.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Program.cs",
+              "RelativeToolTip": "InterfaceTrain\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAswGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T20:20:18.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IChargeable.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Intarface\\IChargeable.cs",
+              "RelativeDocumentMoniker": "InterfaceTrain\\Intarface\\IChargeable.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\Intarface\\IChargeable.cs",
+              "RelativeToolTip": "InterfaceTrain\\Intarface\\IChargeable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T19:20:32.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\IntarfacePractic\\repository\\EmailNotifier.cs",
+              "RelativeDocumentMoniker": "IntarfacePractic\\repository\\EmailNotifier.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\IntarfacePractic\\repository\\EmailNotifier.cs",
+              "RelativeToolTip": "IntarfacePractic\\repository\\EmailNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T12:01:50.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InterfaceTrain.csproj",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\InterfaceTrain.csproj",
+              "RelativeDocumentMoniker": "InterfaceTrain\\InterfaceTrain.csproj",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\InterfaceTrain\\InterfaceTrain.csproj",
+              "RelativeToolTip": "InterfaceTrain\\InterfaceTrain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-29T15:58:12.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\IntarfacePractic\\Program.cs",
+              "RelativeDocumentMoniker": "IntarfacePractic\\Program.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\IntarfacePractic\\Program.cs",
+              "RelativeToolTip": "IntarfacePractic\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwDgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T11:58:26.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INotifier.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\IntarfacePractic\\Interface\\INotifier.cs",
+              "RelativeDocumentMoniker": "IntarfacePractic\\Interface\\INotifier.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\IntarfacePractic\\Interface\\INotifier.cs",
+              "RelativeToolTip": "IntarfacePractic\\Interface\\INotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T12:00:32.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IntarfacePractic.csproj",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\IntarfacePractic\\IntarfacePractic.csproj",
+              "RelativeDocumentMoniker": "IntarfacePractic\\IntarfacePractic.csproj",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Metanit\\_7Interface\\InterfaceTrain\\IntarfacePractic\\IntarfacePractic.csproj",
+              "RelativeToolTip": "IntarfacePractic\\IntarfacePractic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-23T11:59:30.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
