@@ -13,3 +13,7 @@ C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTr
 C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\obj\Debug\net8.0\IntarfacePractic.pdb
 C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\obj\Debug\net8.0\IntarfacePractic.genruntimeconfig.cache
 C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\obj\Debug\net8.0\ref\IntarfacePractic.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\obj\Debug\net8.0\IntarfacePractic.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\IntarfacePractic\obj\Debug\net8.0\Intarfac.2C6EEFA3.Up2Date

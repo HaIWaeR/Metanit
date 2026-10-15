@@ -1,7 +1,7 @@
 ﻿using IntarfacePractic.Interface;
 using IntarfacePractic.repository;
 using IntarfacePractic.Services;
-using System.Runtime.InteropServices.Marshalling;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace IntarfacePractic
 {
@@ -9,6 +9,19 @@ namespace IntarfacePractic
     {
         static void Main(string[] args)
         {
+            // Регистрация
+            var services = new ServiceCollection();
+            services.AddSingleton<INotifier>(new EmailNotifier("vital.com"));
+            services.AddTransient<OrderService>();
+            services.AddTransient<ClientServices>();
+
+            // Построение
+            var provider = services.BuildServiceProvider();
+
+            // Запрос
+            var orders = provider.GetRequiredService<OrderService>();
+            orders.CompleteOrder(1);
+
             //----------------------------------------------------------------
             // Для тестов классов
             EmailNotifier gmail = new EmailNotifier("Gmail.com");
@@ -56,14 +69,12 @@ namespace IntarfacePractic
             //----------------------------------------------------------------
             Console.WriteLine($"\n{new string('_', 50)}\n");
 
-            var services = new ServicesCollection();
-
             INotifier notifier = new EmailNotifier("vital.com"); // Место выбора
 
-            OrderService orders = new OrderService(notifier);
+            OrderService order2s = new OrderService(notifier);
             ClientServices clients = new ClientServices(notifier);
 
-            orders.CompleteOrder(1);
+            order2s.CompleteOrder(1);
             clients.Register("Sam");
         }
 

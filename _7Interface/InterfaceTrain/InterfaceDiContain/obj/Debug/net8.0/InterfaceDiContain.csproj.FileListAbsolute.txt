@@ -1,0 +1,15 @@
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceDiContain\bin\Debug\net8.0\InterfaceDiContain.exe
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceDiContain\bin\Debug\net8.0\InterfaceDiContain.deps.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceDiContain\bin\Debug\net8.0\InterfaceDiContain.runtimeconfig.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceDiContain\bin\Debug\net8.0\InterfaceDiContain.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceDiContain\bin\Debug\net8.0\InterfaceDiContain.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceDiContain\obj\Debug\net8.0\InterfaceDiContain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceDiContain\obj\Debug\net8.0\InterfaceDiContain.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceDiContain\obj\Debug\net8.0\InterfaceDiContain.AssemblyInfo.cs
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceDiContain\obj\Debug\net8.0\InterfaceDiContain.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceDiContain\obj\Debug\net8.0\InterfaceDiContain.sourcelink.json
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceDiContain\obj\Debug\net8.0\InterfaceDiContain.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceDiContain\obj\Debug\net8.0\refint\InterfaceDiContain.dll
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceDiContain\obj\Debug\net8.0\InterfaceDiContain.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceDiContain\obj\Debug\net8.0\InterfaceDiContain.genruntimeconfig.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Metanit\_7Interface\InterfaceTrain\InterfaceDiContain\obj\Debug\net8.0\ref\InterfaceDiContain.dll
